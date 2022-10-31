@@ -13,7 +13,7 @@ In this work, we study the challenge of video Instance Segmentation (VIS), which
 We provide instructions how to install dependencies via conda.
 First, clone the repository locally:
 ```
-git clone https://github.com/Epiphqny/vistr.git
+git clone https://github.com/zyqin19/GMP-VIS.git
 ```
 Then, install PyTorch 1.6 and torchvision 0.7:
 ```
